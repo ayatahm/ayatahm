@@ -4,12 +4,6 @@ I am a passionate cybersecurity student eager to dive deep into the world of inf
 
 ---
 
-## **Objective**  
-
-To leverage my knowledge and practical experience in cybersecurity to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to build a robust foundation in threat detection, incident response, and proactive defense strategies.  
-
----
-
 ## **Skills**  
 
 <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
