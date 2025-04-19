@@ -19,11 +19,3 @@ I am a passionate cybersecurity student eager to dive deep into the world of inf
 <a href="#"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"></a>
 <a href="#"><img src="https://img.shields.io/badge/MATLAB-FCC624?style=for-the-badge&logo=MATLAB&logoColor=black"></a>
-
---- 
-
-## **Connect with Me**  
-
-<a href="www.linkedin.com/in/ayat-4ahmed"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
----
